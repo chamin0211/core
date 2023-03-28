@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6107f5e-cca2-42da-8688-94e84ee8b0eb" name="Changes" comment="EndSpringPrologue commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/MemberApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/core/MemberApp.class" afterDir="false" />
-    </list>
+    <list default="true" id="e6107f5e-cca2-42da-8688-94e84ee8b0eb" name="Changes" comment="SpringBean1 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +187,7 @@
       <workItem from="1679769415580" duration="26000" />
       <workItem from="1679769477188" duration="2576000" />
       <workItem from="1679810500839" duration="22000" />
-      <workItem from="1679989152739" duration="7971000" />
+      <workItem from="1679989152739" duration="8498000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <created>1679771618401</created>
@@ -221,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679997765238</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="SpringBean1 commit">
+      <created>1680017287565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680017287565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +256,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test commit" />
     <MESSAGE value="EndSpringPrologue commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="EndSpringPrologue commit" />
+    <MESSAGE value="SpringBean1 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringBean1 commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
